@@ -1,0 +1,63 @@
+.image {
+    height: auto;
+    width: 350px;
+}
+
+#homeLink {
+    text-align: left;
+    display: block;
+}
+
+body {
+    background: rgb(237,188,210);
+    background: linear-gradient(140deg, rgba(237,188,210,1) 20%, rgba(148,187,233,1) 100%);
+    background-attachment: fixed;
+    text-align: center;
+}
+
+ol, ul {
+    text-align: left;
+    margin: auto;
+    display: inline-block;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ff0f2a;
+}
+
+.text {
+    font-family: monospace, Arial, Helvetica, sans-serif;
+}
+
+li {
+    margin-bottom: 7.5px;
+}
+
+.steps {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
